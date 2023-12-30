@@ -1,0 +1,10 @@
+altgraph==0.17.4
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pyarmor.cli.core==5.4.3
+Pygments==2.17.2
+pyinstaller-hooks-contrib==2023.11
+pywin32-ctypes==0.2.2
+schedule==1.2.1
+setuptools==69.0.3
+termcolor==2.4.0
