@@ -6,3 +6,6 @@ This is a python based software that can be used to clean the tempory files in w
 If you find any bugs or errors in this program please update in the issues section or you can directly email me.
 
 You can clone the source code or also download the setup.exe.
+
+## _How to use_
+![TrashHunter](https://github.com/tharinduk001/TrashHunter/assets/136310961/c99f6ede-e88a-4e89-ae08-4469793b1b88)
