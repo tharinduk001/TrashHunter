@@ -115,16 +115,6 @@ Yes it is 100% safer both to **_OS_** and **_User privacy._**
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Support
-
-For support, email tharindukalhara73@gmail.com or join our Facebook channel https://facebook.com/profile.php?id=61554805956789 
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at tharindukalhara73@gmail.com
-
-
 ## Contributing
 
 Contributions are always welcome!
@@ -132,4 +122,17 @@ Contributions are always welcome!
 Please fork this repository and do new evolvements!
 
 Please adhere to this project's `code of conduct`.
+
+
+## Support
+
+For support, email tharindukalhara73@gmail.com or join our Facebook channel https://facebook.com/profile.php?id=61554805956789 
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at tharindukalhara73@gmail.com Subscribe us on YouTube https://youtube.com/@kalharaCodes?si=UcrPp9CwVN--gp_5_sub_confirmation=1
+
+
+
 
