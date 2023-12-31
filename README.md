@@ -112,7 +112,10 @@ Yes it is 100% safer both to **_OS_** and **_User privacy._**
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/tharinduk001/TrashHunter/assets/136310961/59024c1d-5b5b-4726-b272-703a1e70c9a1)
+
+
+![App Screenshot](https://github.com/tharinduk001/TrashHunter/assets/136310961/d646fb3a-cd89-4909-9de1-29e139c1f05c)
 
 
 ## Contributing
