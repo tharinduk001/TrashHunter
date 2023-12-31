@@ -118,6 +118,10 @@ Yes it is 100% safer both to **_OS_** and **_User privacy._**
 ![App Screenshot](https://github.com/tharinduk001/TrashHunter/assets/136310961/d646fb3a-cd89-4909-9de1-29e139c1f05c)
 
 
+
+## Downloads
+* [![TrashHunter V1.0](https://img.shields.io/badge/TrashHunterV1.0-red)](https://github.com/tharinduk001/TrashHunter/releases/download/TrashHunter_V1.0/TrashCleaner.exe)
+
 ## Contributing
 
 Contributions are always welcome!
