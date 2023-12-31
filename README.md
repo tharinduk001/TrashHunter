@@ -133,12 +133,12 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, email tharindukalhara73@gmail.com or join our Facebook channel https://facebook.com/profile.php?id=61554805956789 
+For support, email tharindukalhara73@gmail.com or join our Facebook channel https://facebook.com/profile.php?id=61554805956789 Subscribe us on YouTube https://youtube.com/@kalharaCodes?si=UcrPp9CwVN--gp_5_sub_confirmation=1
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at tharindukalhara73@gmail.com Subscribe us on YouTube https://youtube.com/@kalharaCodes?si=UcrPp9CwVN--gp_5_sub_confirmation=1
+If you have any feedback, please reach out to us at tharindukalhara73@gmail.com 
 
 
 
