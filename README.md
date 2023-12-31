@@ -9,3 +9,6 @@ You can clone the source code or also download the setup.exe.
 
 ## _How to use_
 ![TrashHunter](https://github.com/tharinduk001/TrashHunter/assets/136310961/c99f6ede-e88a-4e89-ae08-4469793b1b88)
+
+
+![TrashHunter](https://github.com/tharinduk001/TrashHunter/assets/136310961/6f1c714e-f879-433f-820d-7263452ad52b)
